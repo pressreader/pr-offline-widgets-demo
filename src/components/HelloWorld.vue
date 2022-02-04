@@ -27,6 +27,8 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <h3>PressReader</h3>
+    <p>To navigate to PressReader Catalog please click <a href="press">here</a></p>
   </div>
 </template>
 
